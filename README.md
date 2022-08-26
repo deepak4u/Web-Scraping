@@ -1,4 +1,4 @@
-# Web-Scraping Python - Usng requests and lxml
+# Web-Scraping Python - Using requests and lxml
 
 1. Web Scraping from website https://www.watchepisodes4.com/home/series/ using Beautiful Soup
 2. Web Scraping from website https://www.bukalapak.com/ using requests
