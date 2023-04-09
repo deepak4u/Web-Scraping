@@ -1,7 +1,6 @@
-## Web-Scraping Projectsusing Python - Using requests and lxml
+## Web-Scraping Projects using Python
 
 This repository contains multiple Python scripts for web scraping different websites to extract data related to products. The scripts utilize various libraries such as Requests, Beautiful Soup, Selenium, lxml, api, json to crawl and extract data from the following websites:
-
 
 **1. https://www.apoteket.se**
 **Script:** apoteket_scraper.py
