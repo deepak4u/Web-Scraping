@@ -5,8 +5,8 @@ This repository contains multiple Python scripts for web scraping different webs
 
 |Site | Notebook | Description
 |--|:--:|--|
-| www.apoteket.se |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/DataFrame-Auto-Profile.ipynb) | Extracts searched products data from Apoteket using a payload in JSON format. **Params:** product names, prices, and it's link.
-| www.amazon.com |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/DataFrame-Auto-Profile.ipynb) | Extracts products info from product page url. **Params:** product name, old_price, new_price, amazon flags, ratings, etc.
+| www.apoteket.se |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/DataFrame-Auto-Profile.ipynb) | Extracts searched products data from Apoteket using a payload in JSON format. <br>**Params:** product names, prices, and it's link.
+| www.amazon.com |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/DataFrame-Auto-Profile.ipynb) | Extracts products info from product page url. <br>**Params:** product name, old_price, new_price, amazon flags, ratings, etc.
 
 
 1. https://www.watchepisodes4.com/home/series/ - using Beautiful Soup
