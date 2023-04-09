@@ -4,7 +4,7 @@ This repository contains multiple Python scripts for web scraping different webs
 <br><br>
 
 |Site | Notebook | Description
-|--|:--:|:--:|
+|--|:--:|--|
 | www.apoteket.se |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/DataFrame-Auto-Profile.ipynb) | Extracts searched products data from Apoteket using a payload in JSON format. **Params:** product names, prices, and it's link.
 | www.amazon.com |[🔗](https://github.com/ChawlaAvi/Daily-Dose-of-Data-Science/blob/main/Pandas/DataFrame-Auto-Profile.ipynb) | Extracts products info from product page url. **Params:** product name, old_price, new_price, amazon flags, ratings, etc.
 
