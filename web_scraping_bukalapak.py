@@ -39,7 +39,7 @@ def get_data(headers_dict, access_token,pages):
 if __name__ == '__main__':
     print('*** Bukalapak Product Scraping ***')
     print('You can find access token by manually visiting API Secret Page at Bukalapak')
-    print('Search any product on website -> Inspect -> Network tab Search Any product from list -> Headers -> access token')
+    print('Search any product on website -> Inspect -> Network tab Search Any product from list -> Headers/Payload -> access_token | Or search in network res tab Filter')
     # By manually visiting API Secret Page at Bukalapak
     # or
     # By API call to Authentication for Bukalapak API(Username Pass required)
